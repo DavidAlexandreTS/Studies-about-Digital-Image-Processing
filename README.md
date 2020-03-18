@@ -1,1 +1,0 @@
-# Studies-about-Digital-Image-Processing
